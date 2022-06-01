@@ -1,0 +1,2 @@
+vhdl work "VendingMachine.vhd"
+vhdl work "tb_VendingMachine.vhd"

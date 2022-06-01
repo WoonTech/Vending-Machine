@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="D:/Project/Year 4 Project/HDL/Exam/VendingMachine/tb_VendingMachine_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="tb_vendingmachine" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/tb_vendingmachine/tb_reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">tb_reset</obj_property>
+      <obj_property name="ObjectShortName">tb_reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_vendingmachine/uut/ireset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ireset</obj_property>
+      <obj_property name="ObjectShortName">ireset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_vendingmachine/tb_clock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">tb_clock</obj_property>
+      <obj_property name="ObjectShortName">tb_clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_vendingmachine/tb_ten" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">tb_ten</obj_property>
+      <obj_property name="ObjectShortName">tb_ten</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_vendingmachine/tb_five" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">tb_five</obj_property>
+      <obj_property name="ObjectShortName">tb_five</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_vendingmachine/uut/presentstate" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">presentstate</obj_property>
+      <obj_property name="ObjectShortName">presentstate</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_vendingmachine/uut/nextstate" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">nextstate</obj_property>
+      <obj_property name="ObjectShortName">nextstate</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_vendingmachine/uut/presentlight" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">presentlight</obj_property>
+      <obj_property name="ObjectShortName">presentlight</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_vendingmachine/uut/imoneyreturn" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">imoneyreturn[5:0]</obj_property>
+      <obj_property name="ObjectShortName">imoneyreturn[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_vendingmachine/uut/ishiftregister" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ishiftregister[5:0]</obj_property>
+      <obj_property name="ObjectShortName">ishiftregister[5:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_vendingmachine/tb_chocolate" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">tb_chocolate</obj_property>
+      <obj_property name="ObjectShortName">tb_chocolate</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_vendingmachine/tb_clock_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">tb_clock_period</obj_property>
+      <obj_property name="ObjectShortName">tb_clock_period</obj_property>
+   </wvobject>
+</wave_config>
